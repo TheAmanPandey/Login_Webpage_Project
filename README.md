@@ -5,6 +5,6 @@ This is a simple **Login Webpage** built using **HTML, CSS, and JavaScript**. It
 The page includes:
 - A clean and minimal layout  
 - Basic CSS for design and responsiveness  
-- JavaScript for simple input validation (e.g., checking empty fields)  
+- JavaScript for handling interactions
 
 This project is meant as a beginner-friendly example of combining **HTML, CSS, and JavaScript** for front-end development.
